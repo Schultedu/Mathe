@@ -1,0 +1,10 @@
+Grand Line – Das Rechen-Abenteuer der Marine (Mathe 4. Klasse)
+
+Installation als Webseite:
+1. Den GANZEN Ordner (index.html, music.mp3, battle_bg.jpg, merchant.webp und die Unterordner art/ und achic/) auf einen Webserver hochladen.
+2. Die Adresse von index.html weitergeben (am besten https://).
+
+Karten: 64 (Marine mit blauem Band + Marine-Emblem, Piraten mit rotem Band + Strohhut-Flagge), darunter 8 Piratenschiffe.
+Geheimcodes (ins Antwortfeld tippen): „Klarsicht“ = Kartenübersicht, „Feuer123“ = Goldenes Spezial-Schlachtschiff (einmalig).
+Direktduell: Reiter „Duell“ -> „Direktduell erstellen“ -> QR-Code scannen lassen -> Antwort scannen.
+Speichercodes beginnen mit „GL1.“ – alte Codes der Kondensator-Chroniken (KC1.) gelten hier nicht.
